@@ -1,2 +1,3 @@
-# go-rss-cluster
-RSS Clustering
+# RSS Clustering
+
+## (IN DEV)
