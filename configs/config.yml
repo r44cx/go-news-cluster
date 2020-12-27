@@ -1,13 +1,3 @@
-# RSS Clustering
-
-## (IN DEV)
-
-## Configuration
-
-File: `config.yml`
-
-Example:
-``` yaml
 globals:
  interval: 5
  valid: 0.9
@@ -21,8 +11,3 @@ feeds:
 - URL: https://r44cx.zil/blog.rss
   tag: "item"
   rate: 86400
-``` 
-
-
-## Build
-`go build main.go`
