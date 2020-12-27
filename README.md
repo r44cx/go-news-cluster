@@ -26,3 +26,6 @@ feeds:
 
 ## Build
 `go build main.go`
+
+
+## Make
